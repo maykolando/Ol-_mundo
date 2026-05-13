@@ -1,2 +1,14 @@
 # Ol-_mundo
 Um dos primeiros do curso
+inicio
+
+      //Escreval com a letra l no final faz a quebra do texto para a linha de baixo
+      Escreval("Olá, mundo!")
+      Escreval("Sou o aluno Mayko")
+      Escreval
+      Escreval
+      Escreva("Olá, mundo! 2")
+      Escreva("Sou o aluno Mayko 2")
+
+
+fimalgoritmo
